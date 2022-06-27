@@ -39,7 +39,7 @@ export function Navbar() {
               position: "absolute",
               bottom: 0,
               right: 0,
-              transform: "translate(45%, -105%)",
+              transform: "translate(35%, -105%)",
             }}
           >
             3
